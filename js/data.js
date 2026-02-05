@@ -10,8 +10,8 @@ const coursesData = [
         image: "./images/EM2.png",
         bannerImage: "../images/EM2_126.png",
         originalPrice: 1499,
-        discountedPrice: 999,
-        discountPercent: 33,
+        discountedPrice: 899,
+        discountPercent: 40,
         qrCode: "../images/QR999.png",
         registrationLink: "https://forms.gle/yZoWP2fr7MFVU9477", 
         syllabus: {
