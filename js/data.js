@@ -7,13 +7,13 @@ const coursesData = [
         id: 1,
         name: "BAS203 : Engineering Mathematics-II",
         slug: "mathematics-mastery",
-        image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&h=600&fit=crop",
-        bannerImage: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1200&h=600&fit=crop",
+        image: "./images/EM2.png",
+        bannerImage: "../images/EM2_126.png",
         originalPrice: 1499,
         discountedPrice: 999,
         discountPercent: 33,
         qrCode: "../images/QR999.png",
-        registrationLink: "https://forms.google.com/your-form-link-here", // Replace with actual Google Form link
+        registrationLink: "https://forms.gle/yZoWP2fr7MFVU9477", 
         syllabus: {
             "Unit-1 : Ordinary Differential Equation of Higher Order ": [
                     "Linear differential equation of nth order with constant coefficients",
@@ -102,13 +102,13 @@ const coursesData = [
         id: 2,
         name: "BCS201: PROGRAMMING FOR PROBLEM SOLVING",
         slug: "programming-mastery",
-        image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=800&h=600&fit=crop",
-        bannerImage: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&h=600&fit=crop",
+        image: "./images/PPS.png",
+        bannerImage: "../images/PPS_126.png",
         originalPrice: 1499,
         discountedPrice: 999,
         discountPercent: 33,
         qrCode: "../images/QR999.png",
-        registrationLink: "https://forms.google.com/your-form-link-here", // Replace with actual Google Form link
+        registrationLink: "https://forms.gle/migtk9j7KoCx8Gu59", 
         syllabus: {
                 "Unit-1 : Introduction to Computer Systems and Programming Basics": [
                     "Components of a computer system: memory, processor, I/O devices, storage, and operating system",
