@@ -12,7 +12,7 @@ const coursesData = [
         originalPrice: 1499,
         discountedPrice: 899,
         discountPercent: 40,
-        qrCode: "../images/QR999.png",
+        qrCode: "../images/defaultqr.png",
         registrationLink: "https://forms.gle/yZoWP2fr7MFVU9477", 
         syllabus: {
             "Unit-1 : Ordinary Differential Equation of Higher Order ": [
@@ -107,7 +107,7 @@ const coursesData = [
         originalPrice: 1499,
         discountedPrice: 999,
         discountPercent: 33,
-        qrCode: "../images/QR999.png",
+        qrCode: "../images/defaultqr.png",
         registrationLink: "https://forms.gle/migtk9j7KoCx8Gu59", 
         syllabus: {
                 "Unit-1 : Introduction to Computer Systems and Programming Basics": [
