@@ -104,9 +104,9 @@ const coursesData = [
         slug: "programming-mastery",
         image: "./images/PPS.png",
         bannerImage: "../images/PPS_126.png",
-        originalPrice: 1499,
+        originalPrice: 1899,
         discountedPrice: 999,
-        discountPercent: 33,
+        discountPercent: 47,
         qrCode: "../images/defaultqr.png",
         registrationLink: "https://forms.gle/migtk9j7KoCx8Gu59", 
         syllabus: {
