@@ -85,7 +85,7 @@ const coursesData = [
 
         faculty: {
         name: "Dr. Pawan Saxena",
-        experience: "20+",
+        experience: "20+ years",
         qualification: "Ph.D.",
         expertise: ["Mathematics",]
         },
