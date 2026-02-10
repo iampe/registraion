@@ -201,9 +201,9 @@ const coursesData = [
 
         faculty: {
         name: "Mr. Naman Tiwari",
-        experience: "5+",
-        qualification: "MTech",
-        expertise: ["C","C++",]
+        experience: "8+ years (Industry Trainer)",
+        qualification: "M.Tech",
+        expertise: ["C","C++","Python","Java","Machine Learning"]
         },
 
         // DEMO DATA
